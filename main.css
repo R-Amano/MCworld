@@ -2,7 +2,7 @@ body{
     background: #1d1d1d;
     font-family: heattenschweiler;
 }
-p{
+h1{
     color:#ffffff;
     margin-left: 10px;
     font-size: larger;
@@ -21,6 +21,7 @@ div#lay1{
 }
 
 div#home2{
+    max-width: 100%;
     text-align: center;
 }
 
@@ -29,6 +30,7 @@ button {
     -webkit-appearance: none;
     appearance: none;
 
-    max-width: 500px;
     cursor: pointer;
+    width: 20%;
+    height: 100px;
 }
