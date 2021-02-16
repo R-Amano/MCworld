@@ -5,9 +5,9 @@ body{
 }
 
 h1 {
-    color: #ffffff;
+    color: #9cb800;
     margin-left: 15px;
-    font-size: larger;
+   /* font-size: larger; */
 }
 
 p {
@@ -37,5 +37,5 @@ a {
     vertical-align: bottom;
     line-height: 0em;
     box-shadow: 5px 5px  #000000;
-    margin:20px;
+    margin:30px;
 }
